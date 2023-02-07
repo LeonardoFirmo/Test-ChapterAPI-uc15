@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\TesteChapter.csproj": {}
+    "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\TesteChapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj": {
+    "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj",
         "projectName": "ChapterAPI",
-        "projectPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj",
+        "projectPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\obj\\",
+        "outputPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\TesteChapter.csproj": {
+    "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\TesteChapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\TesteChapter.csproj",
+        "projectUniqueName": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\TesteChapter.csproj",
         "projectName": "TesteChapter",
-        "projectPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\TesteChapter.csproj",
+        "projectPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\TesteChapter.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\obj\\",
+        "outputPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj": {
-                "projectPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj"
+              "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj": {
+                "projectPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj"
               }
             }
           }

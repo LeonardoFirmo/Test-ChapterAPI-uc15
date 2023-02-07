@@ -2175,11 +2175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj",
       "projectName": "ChapterAPI",
-      "projectPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\ChapterAPI.csproj",
+      "projectPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\ChapterAPI.csproj",
       "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\ChapterAPI\\obj\\",
+      "outputPath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\ChapterAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",

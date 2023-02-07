@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tO6FJl13KmquAmKJjE5NVqcIYvcXfFFxWaDlbf1WXtFOFOYmpgh6QTznErl3K9PslgNuM++QsLjnaC/QGzqkg==",
+  "dgSpecHash": "HL0hygF25+Wts23lFIXyqbb2ZQlTdkd1lRnamaqJINZUhJf0Pku7hmSWsfl2FAu1kdx9U7BsovzF3C51cfnTeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leo\\Desktop\\ChapterAPI-main\\TesteChapter\\TesteChapter.csproj",
+  "projectFilePath": "C:\\Users\\Leo\\Desktop\\Test-ChapterAPI-uc15\\TesteChapter\\TesteChapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Leo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
